@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background: url("../img/back.png");
+    background-size: 1920px 1080px;
+
+    font-family: 'Public Sans', sans-serif;
+    line-height: 1.4;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.trades {
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    
+    background-color: #fff;
+    box-shadow: 0 5px 10px #e58e23;
+    border-radius: 25px;
+}
+
+.kak {
+    font-size: 38px;
+    color: #e58e23;
+    text-align: center;
+}
+
+.linkss {
+    color: #e58e23;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.rac1k {
+    font-size: 23px;
+    color: #c537ff;
+}
+
+.hastlu {
+    font-size: 23px;
+    color: #4e95ff;
+}
+
+.infcarddiv {
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    
+    background-color: #fff;
+    box-shadow: 0 5px 10px #e58e23;
+    border-radius: 25px;
+}
+
+.infcardphr {
+    display: block;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.rbiozag {
+    font-size: 25px;
+    color: #e58e23;
+}
+
+.footer {
+    background-color: #fff;
+}
+
+.fttxt {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.fttex {
+    font-size: 15px;
+    text-align: center;
+    color: #e58e23;
+    line-height: 1;
+}
